@@ -38,7 +38,6 @@
   <!-- gmail -->
   <a href="mailto:rahul7926963@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
-  
   <a href="https://www.facebook.com/stayrahul" target="_blank">
   <img
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
@@ -46,24 +45,6 @@
   />
 </a>
 
-
-<hr />
-
-
-
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
 
 <hr />
 
