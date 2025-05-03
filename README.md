@@ -1,92 +1,103 @@
-# 👋 Hi, I’m @stayrahul (Rahul Kushwaha)
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
 
-Welcome to my GitHub! I'm **Rahul Kushwaha**, a passionate coder, tech enthusiast, and lifelong learner. Here you'll find all my projects, contributions, and more about what drives me in tech. 🚀
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 
----
+<br />
+<!-- about me -->
+<p align="center">
+  Hi, I'm Rahul Kushwaha, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Nepal🇳🇵.
+  <br />
+  <br />
+  🎓 Currently a high school student.
+  <br />
+  💻 I love to learn new technologies and frameworks.
+  <br />
+  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  <br />
+</p>
 
-### 👀 I’m interested in:
-- **Web Development** (Frontend & Backend)
-- **Mobile App Development** (React Native, Flutter)
-- **Machine Learning** & **AI** (Deep Learning, NLP)
-- **Blockchain** & **Cryptocurrency**
-- **DevOps** and **Cloud Computing** (AWS, Docker, Kubernetes)
-- **Open-source Contributions**
-- **Tech innovations** & **Future Technologies** like Quantum Computing
+<!-- social handles -->
+<div align="center"> 
+<!-- youtube -->
+  <a href="https://www.youtube.com/@ssgaminglive0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  
+  <!-- Instagram -->
+ <a href="https://instagram.com/stayrahul" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
 
----
+  <!-- gmail -->
+  <a href="mailto:rahul7926963@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- linkedin -->
+  
+  <a href="https://www.facebook.com/stayrahul" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
+</a>
 
-### 🌱 I’m currently learning:
-- **Advanced React** and **Next.js**
-- **Tailwind CSS**, **TypeScript**, **GraphQL**
-- **Node.js**, **Express.js** (for backend development)
-- **Deep Learning** using **TensorFlow** and **PyTorch**
-- **Blockchain Development** (Solidity, Ethereum)
-- **Containerization & Microservices** with **Docker** and **Kubernetes**
 
----
+<hr />
 
-### 💞️ I’m looking to collaborate on:
-- Full-stack web and mobile application development
-- Open-source projects and contributions
-- AI-based projects for social good
-- Blockchain and smart contract development
-- Tech consulting or innovations in new areas like AR/VR, 5G, etc.
-- **Hackathons** and **Ideathons** for innovative solutions
 
----
 
-### 📫 How to reach me:
-- **Facebook**: [facebook.com/in/stayrahul](https://www.facebook.com/stayrahul/)
-- **Instagram**: [@stayrahul](https://www.instagram.com/stayrahul)
-- **Email**: rahul7926963@gmail.com
-- **Portfolio**: [stayrahul.me](https://stayrahul.me)
-- **Discord**: stayrahul
+<!-- snake graph -->
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
 
----
+<hr />
 
-### 😄 Pronouns: He/Him
 
----
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+<p align=center>
+<!-- first row -->
+<div align=center>
+  <!-- streak stats -->
+  <a href="https://github.com/stayrahul/github-readme-streak-stats" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=stayrahul&theme=react&hide_border=true" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=stayrahul&theme=default&border=61dafb" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=stayrahul&theme=default&border=61dafb" alt="stayrahul's streak stats" />
+    </picture>
+  </a>
+  <!-- github stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=stayrahul&show_icons=true&theme=react&hide_border=true" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=stayrahul&show_icons=true&theme=default&border_color=61dafb" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=stayrahul&show_icons=true&theme=default&border_color=61dafb" alt="stayrahul's github stats" />
+    </picture>
+  </a>
+</div>
 
-### ⚡ Fun Facts:
-- I am a **PUBG Mobile** enthusiast 🎮, always striving to be top-ranked.
-- I play the **guitar** in my free time 🎸, and sometimes compose my own music.
-- I am an avid reader of **AI** & **Technology** books, podcasts, and research papers 📚.
-- I love **traveling** and immersing myself in different cultures 🌍.
-- I enjoy **photography** and capturing landscapes in my free time 📸.
-- I am actively involved in **online communities** and **meetups** about technology, coding, and gaming 🎤.
-- I always try to contribute to **open-source projects** that align with my interests 🌱.
 
----
+<!-- spaces -->
 
-### 🔧 Technologies & Tools:
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap
-- **Backend**: Node.js, Express.js, GraphQL, Firebase
-- **Mobile**: React Native, Flutter, Swift, Kotlin
-- **Database**: MongoDB, PostgreSQL, Firebase Realtime Database, SQLite
-- **AI/ML**: Python, TensorFlow, PyTorch, OpenCV, Scikit-Learn
-- **Blockchain**: Ethereum, Solidity, Web3.js, IPFS
-- **DevOps**: Docker, Kubernetes, GitHub Actions, CI/CD, Terraform
-- **Cloud**: AWS (EC2, Lambda, S3), Google Cloud Platform, Firebase
-- **Tools**: Git, GitHub, VS Code, Postman, Figma, Jira
+<br /><br /><br /><br /><br /><br />
 
----
-
-### 📈 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stayrahul&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stayrahul&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stayrahul&layout=compact&theme=radical)
-
----
-
-### 🎯 Goals for the Future:
-- Contribute to **100+ open-source repositories**.
-- Master **AI/ML** and work on impactful projects in healthcare and environment.
-- Build a **successful tech startup** focused on sustainable solutions.
-- Participate in **global hackathons** and win at least 5 in the next 2 years.
-- Continuously grow my skills in **cloud computing**, **DevOps**, and **Blockchain**.
-
----
+<!-- show more repos -->
+<h4 align="center">
+  <a href="https://github.com/stayrahul?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
