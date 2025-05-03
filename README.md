@@ -9,18 +9,25 @@
 </h1>
 
 <br />
-<!-- about me -->
+<!-- About Me -->
 <p align="center">
-  Hi, I'm Rahul Kushwaha, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from Nepal🇳🇵.
-  <br />
-  <br />
-  🎓 Currently a high school student.
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
-  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8F00FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Rahul+Kushwaha!;Web+Developer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Gamer+%F0%9F%A4%B8%E2%80%8D%E2%99%82%EF%B8%8F+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  👋 Hey there! I'm <strong>Rahul Kushwaha</strong>, a passionate <strong>Web Developer</strong> 👨‍💻, <strong>Learner</strong> 📚, and <strong>Gamer</strong> 🎮 from <strong>Nepal 🇳🇵</strong>.
+  <br /><br />
+  🎓 I'm currently a <strong>high school student</strong> with a deep love for technology.
+  <br />
+  💡 I enjoy exploring and building with modern frameworks like <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>.
+  <br />
+  💼 Working as a <strong>freelance Next.js developer</strong>, helping bring ideas to life on the web.
+  <br />
+  🚀 Always striving to improve and contribute to meaningful open-source projects.
+  <br />
+  🧠 I believe in learning by doing — building projects, solving problems, and staying curious!
+</p>
+
 
 <!-- social handles -->
 <div align="center"> 
