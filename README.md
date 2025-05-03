@@ -37,17 +37,13 @@
 
   <!-- gmail -->
   <a href="mailto:rahul7926963@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- linkedin -->
+  <!-- facebook -->
   <a href="https://www.facebook.com/stayrahul" target="_blank">
   <img
     src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
     alt="Facebook"
   />
 </a>
-
-
-<hr />
-
 
 <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
