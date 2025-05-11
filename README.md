@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  👋 Hey there! I'm <strong>Rahul Kushwaha</strong>, a passionate <strong>Web Developer</strong> 👨‍💻, <strong>Learner</strong> 📚, and <strong>Gamer</strong> 🎮 from <strong>Nepal 🇳🇵</strong>.
+  👋 Hey there! I'm <strong>Rahul</strong>, a passionate <strong>Web Developer</strong> 👨‍💻, <strong>Learner</strong> 📚, and <strong>Gamer</strong> 🎮 from <strong>Nepal 🇳🇵</strong>.
   <br /><br />
   🎓 I'm currently a <strong>high school student</strong> with a deep love for technology.
   <br />
