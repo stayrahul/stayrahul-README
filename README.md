@@ -51,15 +51,7 @@
 <p align=center>
 <!-- first row -->
 <div align=center>
-  <!-- streak stats -->
-  <a href="https://github.com/stayrahul/github-readme-streak-stats" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=stayrahul&theme=react&hide_border=true" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=stayrahul&theme=default&border=61dafb" />
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=stayrahul&theme=default&border=61dafb" alt="stayrahul's streak stats" />
-    </picture>
-  </a>
-  <br>
+ 
   <!-- github stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <picture>
