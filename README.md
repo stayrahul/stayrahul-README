@@ -67,7 +67,3 @@
 
 <br /><br /><br /><br /><br /><br />
 
-<!-- show more repos -->
-<h4 align="center">
-  <a href="https://github.com/stayrahul?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
