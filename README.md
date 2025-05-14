@@ -12,9 +12,9 @@
   <br /><br />
   🎓 I'm currently a <strong>high school student</strong> with a deep love for technology.
   <br />
-  💡 I enjoy exploring and building with modern frameworks like <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>.
+  💡 I enjoy exploring and building with modern frameworks like <strong>Next.js,React.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>.
   <br />
-  💼 Working as a <strong>freelance Next.js developer</strong>, helping bring ideas to life on the web.
+  💼 Working as a <strong>freelance Next.js, React.js developer</strong>, helping bring ideas to life on the web.
   <br />
   🚀 Always striving to improve and contribute to meaningful open-source projects.
   <br />
