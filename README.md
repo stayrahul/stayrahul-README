@@ -29,14 +29,11 @@ Hi, I'm Rahul — a high schooler with a passion for frontend development & inno
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stayrahul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=stayrahul&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stayrahul&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
 ⌨️ Live Coding Activity
 
-Powered by Wakatime
-<p align="center"> <img src="https://wakatime.com/@stayrahul&theme=radical&layout=compact&hide_border=true" /> </p>
-📌 Featured Projects
+Powered by WakaTime  
+<p align="center">
+  <img src="https://wakatime.com/@stayrahul.svg?theme=radical&layout=compact&hide_border=true" />
+</p>
 
-<p align="center"> <img align="center" src="https://github-readme-projects.vercel.app/api/projects?username=stayrahul&limit=4&theme=dark" /> </p>
-📝 Latest Dev.to Blogs
-
-<p align="center"> <a href="https://dev.to/stayrahul" target="_blank"> <img src="https://github-readme-blog-posts.vercel.app/api?username=stayrahul&limit=3" alt="Latest Dev.to posts" /> </a> </p>
 🏆 GitHub Trophies
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=stayrahul&theme=monokai&no-bg=true&no-frame=true&margin-w=8" /> </p>
