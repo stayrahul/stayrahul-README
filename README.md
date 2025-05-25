@@ -30,7 +30,7 @@ Hi, I'm Rahul — a high schooler with a passion for frontend development & inno
 ⌨️ Live Coding Activity
 
 Powered by Wakatime
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stayrahul&theme=radical&layout=compact&hide_border=true" /> </p>
+<p align="center"> <img src="https://wakatime.com/@stayrahul&theme=radical&layout=compact&hide_border=true" /> </p>
 📌 Featured Projects
 
 <p align="center"> <img align="center" src="https://github-readme-projects.vercel.app/api/projects?username=stayrahul&limit=4&theme=dark" /> </p>
@@ -40,12 +40,7 @@ Powered by Wakatime
 🏆 GitHub Trophies
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=stayrahul&theme=monokai&no-bg=true&no-frame=true&margin-w=8" /> </p>
-🐍 Contribution Snake
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" /> <img src="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" /> </picture> </div>
-📬 Let's Connect
-
-<p align="center"> <a href="https://www.facebook.com/stayrahul" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://instagram.com/stayrahul" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:rahul7926963@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://stayrahul.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
 🎯 Fun Facts
 
 🎮 PUBG Mobile is my second nature
@@ -56,10 +51,10 @@ Powered by Wakatime
 
 ---
 
-### ✅ What You Need To Set Up:
+📬 Let's Connect
 
-- **Wakatime**: Connect your account at [wakatime.com](https://wakatime.com)
-- **Dev.to RSS-to-GitHub**: You can deploy [readme-blog-posts](https://github.com/gautamkrishnar/blog-post-workflow) via GitHub Actions.
-- **Pinned Projects Widget**: Use [readme-projects](https://github.com/cheesits456/github-readme-projects) or manually list your top 4 repos.
+<p align="center"> <a href="https://www.facebook.com/stayrahul" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://instagram.com/stayrahul" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:rahul7926963@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://stayrahul.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
 
-Let me know if you'd like help automating any of this with GitHub Actions — I can even set up the `.yml` workflow files for you.
+🐍 Contribution Snake
+
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" /> <img src="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" /> </picture> </div>
