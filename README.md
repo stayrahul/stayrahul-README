@@ -66,6 +66,15 @@
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/stayrahul/stayrahul/output/github-contribution-grid-snake.svg" />
-</p>
+<!-- snake graph -->
+<div align="center">
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
