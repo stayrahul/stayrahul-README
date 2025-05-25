@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Required to allow pulling
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -26,3 +28,6 @@ jobs:
         with:
           message: "Generate snake animation"
           add: "output/*.svg"
+          pull: true  # 🔧 This ensures it pulls before pushing
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
