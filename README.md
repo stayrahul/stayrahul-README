@@ -1,11 +1,14 @@
+![WakaTime Badge](https://wakatime.com/badge/user/e74fea55-bc3f-4cc8-9140-844308e3a503.svg)
 <!-- Profile View Counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=stayrahul&label=👁‍🗨+Views&color=blueviolet&style=for-the-badge" alt="stayrahul" />
+  
   </p>
 
 
-<p align="right">
-![WakaTime Badge](https://wakatime.com/badge/user/e74fea55-bc3f-4cc8-9140-844308e3a503.svg)
+
+---
+
 
 
 <!-- Header: Typing Animation -->
@@ -49,11 +52,7 @@ Hi, I'm Rahul — a high schooler with a passion for frontend development & inno
 ---
 
 
-## ⌨️ WakaTime Coding Activity
 
-![WakaTime Badge](https://wakatime.com/badge/user/e74fea55-bc3f-4cc8-9140-844308e3a503.svg)
-
----
 
 ## 🏆 GitHub Trophies
 
