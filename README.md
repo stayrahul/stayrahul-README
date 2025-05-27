@@ -1,7 +1,8 @@
 <!-- Profile View Counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=stayrahul&label=👁‍🗨+Views&color=blueviolet&style=for-the-badge" alt="stayrahul" />
-  [WakaTime Badge](https://wakatime.com/badge/user/e74fea55-bc3f-4cc8-9140-844308e3a503.svg)
+
+![WakaTime Badge](https://wakatime.com/badge/user/e74fea55-bc3f-4cc8-9140-844308e3a503.svg)
 
 </p>
 
