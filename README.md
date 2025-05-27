@@ -34,9 +34,10 @@ Powered by WakaTime
   <img src="https://wakatime.com/@stayrahul.svg?theme=radical&layout=compact&hide_border=true" />
 </p>
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=stayrahul&theme=monokai&no-bg=true&no-frame=true&margin-w=8" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=stayrahul&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 🎯 Fun Facts
 
