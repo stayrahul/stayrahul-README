@@ -43,10 +43,10 @@ Hi, I'm Rahul — a high schooler with a passion for frontend development & inno
 
 ---
 
+
 ## ⌨️ WakaTime Coding Activity
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![WakaTime Badge](https://wakatime.com/badge/user/e74fea55-bc3f-4cc8-9140-844308e3a503.svg)
 
 ---
 
@@ -55,33 +55,6 @@ Hi, I'm Rahul — a high schooler with a passion for frontend development & inno
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=stayrahul&theme=radical&margin-w=10&margin-h=15" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stayrahul&repo=portfolio&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=stayrahul&repo=jarvis-ai&theme=tokyonight" />
-</p>
-
----
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 📝 Blog posts powered by [GitHub Action](https://github.com/gautamkrishnar/blog-post-workflow)
-
----
-
-## 🎵 Now Playing on Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</p>
-
 ---
 
 ## 💬 Dev Quote of the Day
@@ -92,17 +65,6 @@ Hi, I'm Rahul — a high schooler with a passion for frontend development & inno
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
-  </picture>
-</p>
-
----
 
 ## 📬 Let's Connect
 
@@ -124,6 +86,19 @@ Hi, I'm Rahul — a high schooler with a passion for frontend development & inno
 - ⭐ Let’s build something legendary together!
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" />
+  </picture>
+</p>
+
+---
+
 
 ### 🙌 Thanks for stopping by! Drop a ⭐ if you like this profile!
 
