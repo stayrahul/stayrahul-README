@@ -1,6 +1,8 @@
 <!-- Profile View Counter -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=stayrahul&label=👁‍🗨+Views&color=blueviolet&style=for-the-badge" alt="stayrahul" />
+  [WakaTime Badge](https://wakatime.com/badge/user/e74fea55-bc3f-4cc8-9140-844308e3a503.svg)
+
 </p>
 
 <!-- Header: Typing Animation -->
@@ -103,5 +105,3 @@ Hi, I'm Rahul — a high schooler with a passion for frontend development & inno
 ### 🙌 Thanks for stopping by! Drop a ⭐ if you like this profile!
 
 ---
-
-Let me know if you'd like me to automate blog/WakaTime sections with GitHub Actions, or want help designing your Snake contribution output repo or Spotify widget.
