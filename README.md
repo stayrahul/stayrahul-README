@@ -1,92 +1,57 @@
-# Hi there, I'm Rahul! 👋
+<!-- Profile View Counter -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=stayrahul&label=👁‍🗨+Views&color=blueviolet&style=for-the-badge" alt="stayrahul" />
+</p>
 
-<!--
-Welcome to your GitHub profile! You can customize this README to tell the world a bit about yourself.
--->
+<!-- Header: Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&width=435&lines=Hey!+I'm+Rahul+Kushwaha+%F0%9F%91%8B;Frontend+Ninja+%F0%9F%9A%80;AI+Explorer+%F0%9F%A7%90;Gamer+%F0%9F%8E%AE;Open+Sourcerer+%F0%9F%94%A5" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=stayrahul&color=blue)
-
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on: **[Your coolest project here]**
-- 🌱 I’m currently learning: **[What are you learning?]**
-- 👯 I’m looking to collaborate on: **[Open source, side projects, etc.]**
-- 💬 Ask me about: **[Top skills or topics]**
-- 📫 How to reach me: **[Your email, LinkedIn, or Twitter]**
-- 😄 Pronouns: **[He/Him/They/She]**
-- ⚡ Fun fact: **[Something quirky or fun!]**
+<h3 align="center">🌐 Self-Taught Dev • 🧠 Lifelong Learner • 🎮 Gamer • 🇳🇵 Based in Nepal</h3>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧑‍💻 About Me
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Other](https://img.shields.io/badge/-Add%20more-333?style=flat&logo=github)
 
-<!-- Add or remove skill badges as needed -->
+Hi, I'm Rahul — a high schooler with a passion for frontend development & innovation.
 
----
+🛠️ Crafting fast, elegant UIs with Next.js, React & Tailwind  
+🎯 Focused on practical learning: building AI bots, admin dashboards & more  
+🚀 Believer in failing fast and improving faster  
+🎮 Gamer, dreamer, and coffee-powered coder
+🚀 Tech Stack
 
-## 🚀 Projects
+<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,figma,nodejs,vercel,git,github,prisma,mongodb" /> </p>
+🔥 My GitHub Stats
 
-- [Project Name](GitHub link) — *Short description or tagline*
-- [Project Name](GitHub link) — *Short description or tagline*
-- [Project Name](GitHub link) — *Short description or tagline*
-<!-- List your favorite/featured projects here -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stayrahul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=stayrahul&theme=tokyonight&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stayrahul&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </p>
+⌨️ Live Coding Activity
 
----
+Powered by WakaTime  
+<p align="center">
+  <img src="https://wakatime.com/@stayrahul.svg?theme=radical&layout=compact&hide_border=true" />
+</p>
 
-## 📊 GitHub Stats
+🏆 GitHub Trophies
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=stayrahul&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stayrahul&layout=compact&theme=radical)
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=stayrahul&theme=monokai&no-bg=true&no-frame=true&margin-w=8" /> </p>
 
----
+🎯 Fun Facts
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=stayrahul&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your latest blog post 1](link)
-- [Your latest blog post 2](link)
-- [Your latest blog post 3](link)
-<!-- BLOG-POST-LIST:END -->
+🎮 PUBG Mobile is my second nature
+🧠 Debugging is my favorite brain game
+🤖 Currently building my personal J.A.R.V.I.S.
+🔭 My dream? To blend AI with Web like Iron Man’s HUD
+⭐ Thanks for visiting! Let’s build something legendary together!
 
 ---
 
-## 🌍 Connect with Me
+📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=twitter)](your-twitter-url)
-[![Website](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome)](your-website-url)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-333?style=flat&logo=dev.to)](your-devto-url)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=hashnode)](your-hashnode-url)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium)](your-medium-url)
-<!-- Add or remove social links as needed -->
+<p align="center"> <a href="https://www.facebook.com/stayrahul" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://instagram.com/stayrahul" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:rahul7926963@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://stayrahul.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
 
----
+🐍 Contribution Snake
 
-## 🎨 Fun & Extras
-
-- 💡 Favorite Quote: *"Your favorite quote goes here."*
-- 🎶 Favorite Music: *[Your favorite genre/band/playlist]*
-- 📷 Hobbies: *Photography, Traveling, Chess, etc.*
-- 🥇 Achievements: *Awards, certifications, etc.*
-
----
-
-<!--
-Tip: You can use shields.io for custom badges. Add GitHub activity graphs, visitor counters, etc.
-For more inspiration, check out: https://github.com/abhisheknaiidu/awesome-github-profile-readme
--->
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" /> <img src="https://github.com/stayrahul/stayrahul/blob/output/github-contribution-grid-snake.svg" alt="github contribution snake animation" /> </picture> </div>
